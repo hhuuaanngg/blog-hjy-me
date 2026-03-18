@@ -5,7 +5,7 @@ summary: "Goldencoast"
 category: "Photographs"
 tags:
   - "Travel"
-cover: ""
+cover: "/images/wp-import/goldencoast/202601280728434.png"
 draft: false
 ---
 
