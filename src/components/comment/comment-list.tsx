@@ -41,14 +41,13 @@ export function CommentList({ slug }: CommentListProps) {
           repoId={giscusConfig.repoId!}
           category={giscusConfig.category!}
           categoryId={giscusConfig.categoryId!}
-          mapping="specific"
-          term={`post:${slug}`}
-          strict="1"
+          mapping="pathname"
+          strict="0"
           reactionsEnabled="1"
           emitMetadata="0"
-          inputPosition="top"
-          theme="light"
-          lang="zh-CN"
+          inputPosition="bottom"
+          theme="preferred_color_scheme"
+          lang="en"
           loading="lazy"
         />
       )}
