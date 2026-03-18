@@ -1,0 +1,12 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="32" fill="#F8FAFC"/>
+  <rect x="64" y="64" width="1072" height="502" rx="24" fill="#E2E8F0"/>
+  <rect x="96" y="120" width="240" height="48" rx="24" fill="#0F172A"/>
+  <text x="124" y="151" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="24" font-weight="700">SEO Ready</text>
+  <rect x="96" y="220" width="620" height="28" rx="14" fill="#0F172A"/>
+  <rect x="96" y="268" width="500" height="18" rx="9" fill="#475569"/>
+  <rect x="96" y="340" width="320" height="140" rx="20" fill="#FFFFFF"/>
+  <rect x="448" y="340" width="320" height="140" rx="20" fill="#FFFFFF"/>
+  <rect x="800" y="340" width="304" height="140" rx="20" fill="#FFFFFF"/>
+  <text x="96" y="104" fill="#475569" font-family="Arial, sans-serif" font-size="28" font-weight="700">Sitemap and metadata</text>
+</svg>
