@@ -5,6 +5,7 @@ import { Header } from "@/components/site/header";
 
 import "./globals.css";
 
+// 本地开发用 localhost；CI 构建时由 NEXT_PUBLIC_SITE_URL 注入 GitHub Pages 地址
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
 
 export const metadata: Metadata = {
