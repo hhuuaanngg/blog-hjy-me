@@ -1,10 +1,6 @@
 import Link from "next/link";
 
-const navigation = [
-  { href: "/categories", label: "分类" },
-  { href: "/tags", label: "标签" },
-  { href: "/about", label: "关于" }
-];
+const navigation = [{ href: "/about", label: "关于" }];
 
 const socialLinks = [
   {
