@@ -5,7 +5,7 @@ summary: "&nbsp;"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/iron-tower/IMG_7176.jpg"
 draft: false
 ---
 

@@ -6,7 +6,7 @@ category: "Photographs"
 tags:
   - "Travel"
   - "旅行"
-cover: ""
+cover: "/images/wp-import/travel-in-hongkong-2/5DS_4626-03x.png"
 draft: false
 ---
 

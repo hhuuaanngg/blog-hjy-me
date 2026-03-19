@@ -5,7 +5,7 @@ summary: "毛毛"
 category: "Life"
 tags:
   - "Photographs"
-cover: ""
+cover: "/images/wp-import/maomao/IMG_9036.jpg"
 draft: false
 ---
 

@@ -6,7 +6,7 @@ category: "Photographs"
 tags:
   - "Travel"
   - "旅行"
-cover: ""
+cover: "/images/wp-import/behind-the-bustling/2023102914593711.jpeg"
 draft: false
 ---
 

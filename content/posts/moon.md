@@ -5,7 +5,7 @@ summary: "同一个地方，已经拍了很多的照片了。 这次，无意间
 category: "Life"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/moon/IMG_9203.jpg"
 draft: false
 ---
 

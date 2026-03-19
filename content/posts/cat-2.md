@@ -5,7 +5,7 @@ summary: "喵了个咪2"
 category: "Photographs"
 tags:
   - "Cat"
-cover: ""
+cover: "/images/wp-import/cat-2/5DS_0296-rotated.jpg"
 draft: false
 ---
 

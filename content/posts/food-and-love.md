@@ -5,7 +5,7 @@ summary: "唯有美食与爱不可辜负 Nothing compares to the love and food."
 category: "Photographs"
 tags:
   - "食物"
-cover: ""
+cover: "/images/wp-import/food-and-love/2023102914482136.jpeg"
 draft: false
 ---
 

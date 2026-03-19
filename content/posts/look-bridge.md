@@ -6,7 +6,7 @@ category: "Photographs"
 tags:
   - "Photo"
   - "航拍"
-cover: ""
+cover: "/images/wp-import/look-bridge/DJI_0042.jpg"
 draft: false
 ---
 

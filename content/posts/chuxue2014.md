@@ -5,7 +5,7 @@ summary: "初雪"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/chuxue2014/IMG_3803.jpg"
 draft: false
 ---
 

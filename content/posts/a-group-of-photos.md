@@ -6,7 +6,7 @@ category: "Life"
 tags:
   - "Photographs"
   - "Photo"
-cover: ""
+cover: "/images/wp-import/a-group-of-photos/IMG_1509.jpg"
 draft: false
 ---
 

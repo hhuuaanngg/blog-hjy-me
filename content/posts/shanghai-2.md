@@ -5,7 +5,7 @@ summary: "Shanghai"
 category: "Life"
 tags:
   - "旅行"
-cover: ""
+cover: "/images/wp-import/shanghai-2/5B3556FB-6B1B-4040-8887-3FCC254B821D-scaled-1.jpeg"
 draft: false
 ---
 

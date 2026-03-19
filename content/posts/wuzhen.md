@@ -5,7 +5,7 @@ summary: "乌镇一日"
 category: "Life"
 tags:
   - "Photographs"
-cover: ""
+cover: "/images/wp-import/wuzhen/IMG_3248_2-scaled.jpg"
 draft: false
 ---
 

@@ -5,7 +5,7 @@ summary: "工业制造"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/manufacturing/5DS_5154.png"
 draft: false
 ---
 

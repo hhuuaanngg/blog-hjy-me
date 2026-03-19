@@ -5,7 +5,7 @@ summary: "这个主题的灵感来自己一个wp的免费主题（Cascade），�
 category: "Themes"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/wordpress-theme-1foto/1foto-shot.jpg"
 draft: false
 ---
 

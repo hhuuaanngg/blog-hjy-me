@@ -5,7 +5,7 @@ summary: "终于有了一台全新的MacBook Pro，多少年的愿望啊，终�
 category: "Life"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/macbook-pro-16-open-box/5DS_5252.png"
 draft: false
 ---
 

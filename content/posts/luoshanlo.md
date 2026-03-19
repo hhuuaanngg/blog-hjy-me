@@ -5,7 +5,7 @@ summary: "落山咯"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/luoshanlo/IMG_7163.jpg"
 draft: false
 ---
 

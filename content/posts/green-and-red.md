@@ -5,7 +5,7 @@ summary: "大红大绿"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/green-and-red/IMG_0262.jpg"
 draft: false
 ---
 

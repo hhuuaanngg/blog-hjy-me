@@ -8,7 +8,7 @@ tags:
   - "周杰伦"
   - "地表最强"
   - "演唱会"
-cover: ""
+cover: "/images/wp-import/jay-chou-the-invincible-2016/5DS_2025-025x.png"
 draft: false
 ---
 

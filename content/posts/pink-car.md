@@ -5,7 +5,7 @@ summary: "在上海，路过，粉色的车。 是什么赋予了它这样的气
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/pink-car/IMG_9226.jpg"
 draft: false
 ---
 

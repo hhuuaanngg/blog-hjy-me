@@ -5,7 +5,7 @@ summary: "冬·静"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/the-winter-solstice/IMG_3366.jpg"
 draft: false
 ---
 

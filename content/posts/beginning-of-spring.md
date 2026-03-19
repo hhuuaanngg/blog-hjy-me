@@ -5,7 +5,7 @@ summary: "立春"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/beginning-of-spring/IMG_3699.jpg"
 draft: false
 ---
 

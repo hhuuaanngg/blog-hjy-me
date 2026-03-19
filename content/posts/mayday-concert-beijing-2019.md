@@ -6,7 +6,7 @@ category: "Travel"
 tags:
   - "五月天"
   - "演唱会"
-cover: ""
+cover: "/images/wp-import/mayday-concert-beijing-2019/5DS_4812-025x.png"
 draft: false
 ---
 

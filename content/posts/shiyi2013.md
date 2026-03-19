@@ -5,7 +5,7 @@ summary: "拾遗2013"
 category: "Life"
 tags:
   - "Photographs"
-cover: ""
+cover: "/images/wp-import/shiyi2013/DSCN1658.jpg"
 draft: false
 ---
 

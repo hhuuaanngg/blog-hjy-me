@@ -5,7 +5,7 @@ summary: "第一次拍摄星空的尝试。"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/star/IMG_7776.jpg"
 draft: false
 ---
 

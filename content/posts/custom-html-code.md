@@ -5,7 +5,7 @@ summary: "因为网站的统计代码直接写在主题文件却因经常换主�
 category: "Plugins"
 tags:
   - "插件"
-cover: ""
+cover: "/images/wp-import/custom-html-code/CHTML-Plugin-Settings-hjy.jpg"
 draft: false
 ---
 

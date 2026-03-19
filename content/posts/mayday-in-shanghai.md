@@ -5,7 +5,7 @@ summary: "开场嘉宾"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/mayday-in-shanghai/2023111500100084.jpg"
 draft: false
 ---
 

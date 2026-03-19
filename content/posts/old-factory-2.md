@@ -5,7 +5,7 @@ summary: "这已是第二次踏入这个旧工厂。"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/old-factory-2/IMG_8854.jpg"
 draft: false
 ---
 

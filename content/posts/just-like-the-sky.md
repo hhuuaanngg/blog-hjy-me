@@ -5,7 +5,7 @@ summary: "我喜欢这样的天空"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "(/images/wp-import/just-like-the-sky/IMG_7129.jpg"
 draft: false
 ---
 

@@ -5,7 +5,7 @@ summary: "春"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/spring-2/IMG_4213.jpg"
 draft: false
 ---
 

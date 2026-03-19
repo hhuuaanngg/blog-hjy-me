@@ -5,7 +5,7 @@ summary: "如果喜欢，可以关注我的微信订阅号：nihaoweixiaoshiguan
 category: "Life"
 tags:
   - "Photographs"
-cover: ""
+cover: "/images/wp-import/jingshenghuo/IMG_5601.jpg"
 draft: false
 ---
 

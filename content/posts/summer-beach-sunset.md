@@ -5,7 +5,7 @@ summary: "夏日·海边·夕阳"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/summer-beach-sunset/5DS_6655.jpg"
 draft: false
 ---
 

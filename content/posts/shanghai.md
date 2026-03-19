@@ -5,7 +5,7 @@ summary: "如果喜欢，可以关注我的微信订阅号：nihaoweixiaoshiguan
 category: "未分类"
 tags:
   - Imported
-cover: ""
+cover: "(/images/wp-import/shanghai/IMG_4472.jpg"
 draft: false
 ---
 

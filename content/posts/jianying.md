@@ -5,7 +5,7 @@ summary: "剪影"
 category: "Life"
 tags:
   - "Photographs"
-cover: ""
+cover: "/images/wp-import/jianying/DSCN2113.jpg"
 draft: false
 ---
 

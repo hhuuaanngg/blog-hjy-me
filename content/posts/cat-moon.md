@@ -5,7 +5,7 @@ summary: "喵了个喵"
 category: "Photographs"
 tags:
   - "Cat"
-cover: ""
+cover: "/images/wp-import/cat-moon/5DS_7303.jpg"
 draft: false
 ---
 

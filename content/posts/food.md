@@ -5,7 +5,7 @@ summary: "PS：日文内容纯粹瞎掰。勿较真。哈哈。"
 category: "Photographs"
 tags:
   - "food"
-cover: ""
+cover: "/images/wp-import/food/5DS_1400-01x.png"
 draft: false
 ---
 

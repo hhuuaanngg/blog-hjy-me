@@ -5,7 +5,7 @@ summary: "光·影"
 category: "Life"
 tags:
   - "Photographs"
-cover: ""
+cover: "/images/wp-import/light-shadow/IMG_3567.jpg"
 draft: false
 ---
 

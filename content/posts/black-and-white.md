@@ -5,7 +5,7 @@ summary: "静·黑白"
 category: "未分类"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/black-and-white/IMG_3657.jpg"
 draft: false
 ---
 

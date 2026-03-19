@@ -5,7 +5,7 @@ summary: "这狗，在一家饭店里的。这狗，岁数好像有点了。只�
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/golden-retriever/IMG_0015.jpg"
 draft: false
 ---
 

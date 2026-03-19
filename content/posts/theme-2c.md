@@ -5,7 +5,7 @@ summary: "这个主题一开始是打算自己的另一个网站用的，所以�
 category: "Themes"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/theme-2c/damowangtheme.jpg"
 draft: false
 ---
 

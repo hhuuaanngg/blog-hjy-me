@@ -5,7 +5,7 @@ summary: "Iphone拍的照片，夏天的傍晚"
 category: "Life"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/summer-evening/2013-07-23-18.30.jpg"
 draft: false
 ---
 

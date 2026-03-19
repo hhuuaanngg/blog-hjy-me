@@ -5,7 +5,7 @@ summary: "给你一波吃的。让你解解馋。"
 category: "Photographs"
 tags:
   - "food"
-cover: ""
+cover: "/images/wp-import/food2/5DS_1659-01x.png"
 draft: false
 ---
 

@@ -5,7 +5,7 @@ summary: "如果喜欢，可以关注我的微信订阅号：nihaoweixiaoshiguan
 category: "Video"
 tags:
   - "延时摄影"
-cover: ""
+cover: "/images/wp-import/first-timelapse/qrcode-weixiaoshiguang.jpg"
 draft: false
 ---
 

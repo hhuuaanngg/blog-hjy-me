@@ -5,7 +5,7 @@ summary: "2014，有收获，也有失去。有幸福也有灾难。把那些幸
 category: "Life"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/2014goodbye/IMG_1686-scaled.jpg"
 draft: false
 ---
 

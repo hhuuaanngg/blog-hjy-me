@@ -6,7 +6,7 @@ category: "Photographs"
 tags:
   - "Travel"
   - "旅行"
-cover: ""
+cover: "/images/wp-import/mountain/DJI_0577-scaled-1.jpg"
 draft: false
 ---
 

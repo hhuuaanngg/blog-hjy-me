@@ -5,7 +5,7 @@ summary: "月，圆月。 念，思念。"
 category: "Life"
 tags:
   - "Photographs"
-cover: ""
+cover: "/images/wp-import/admire-the-full-moon/IMG_2751.jpg"
 draft: false
 ---
 

@@ -5,7 +5,7 @@ summary: "这次去香港，去了几个标志性的地方。拍了几个标志�
 category: "Photographs"
 tags:
   - "旅行"
-cover: ""
+cover: "/images/wp-import/travel-in-hongkong/5DS_4448-025x.jpg"
 draft: false
 ---
 

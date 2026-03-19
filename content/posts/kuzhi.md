@@ -5,7 +5,7 @@ summary: "可以用作桌面的哦:)"
 category: "未分类"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/kuzhi/IMG_3767.jpg"
 draft: false
 ---
 

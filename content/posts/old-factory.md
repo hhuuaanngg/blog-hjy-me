@@ -5,7 +5,7 @@ summary: "如果喜欢，可以关注我的微信订阅号：nihaoweixiaoshiguan
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/old-factory/IMG_9857.jpg"
 draft: false
 ---
 

@@ -5,7 +5,7 @@ summary: "四季"
 category: "Life"
 tags:
   - "Photographs"
-cover: ""
+cover: "/images/wp-import/seasons/IMG_1818.jpg"
 draft: false
 ---
 

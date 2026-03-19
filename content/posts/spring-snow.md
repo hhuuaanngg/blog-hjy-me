@@ -5,7 +5,7 @@ summary: "春雪"
 category: "Photographs"
 tags:
   - "雪"
-cover: ""
+cover: "/images/wp-import/spring-snow/IMG_0221.jpg"
 draft: false
 ---
 

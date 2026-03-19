@@ -5,7 +5,7 @@ summary: "The girl Kiki"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/the-girl-kiki/IMG_7056.jpg"
 draft: false
 ---
 

@@ -5,7 +5,7 @@ summary: "春暖花开"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/spring/IMG_4117.jpg"
 draft: false
 ---
 

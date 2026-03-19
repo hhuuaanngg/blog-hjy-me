@@ -5,7 +5,7 @@ summary: "喵了个咪"
 category: "Photographs"
 tags:
   - "Cat"
-cover: ""
+cover: "/images/wp-import/hello-cat/5DS_0251-1.jpg"
 draft: false
 ---
 

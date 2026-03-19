@@ -5,7 +5,7 @@ summary: "去看演唱会，进了那家店。"
 category: "Photographs"
 tags:
   - "食物"
-cover: ""
+cover: "/images/wp-import/the-cake-from-the-starbucks-in-beijing/5DS_4745-025x.png"
 draft: false
 ---
 

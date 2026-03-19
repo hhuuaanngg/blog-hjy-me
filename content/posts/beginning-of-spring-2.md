@@ -5,7 +5,7 @@ summary: "立春（二）"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/beginning-of-spring-2/IMG_3745.jpg"
 draft: false
 ---
 

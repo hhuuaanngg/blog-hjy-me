@@ -5,7 +5,7 @@ summary: "蛋糕来一块吗"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/would-you-like-a-piece-of-cake/IMG_8339.jpg"
 draft: false
 ---
 

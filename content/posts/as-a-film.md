@@ -5,7 +5,7 @@ summary: "奇迹每天在发生。"
 category: "Photographs"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/as-a-film/IMG_2541.jpg"
 draft: false
 ---
 

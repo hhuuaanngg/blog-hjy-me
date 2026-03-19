@@ -5,7 +5,7 @@ summary: "2017,新年快乐！"
 category: "Life"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/happy-new-year-2017/IMG_1933.jpg"
 draft: false
 ---
 
