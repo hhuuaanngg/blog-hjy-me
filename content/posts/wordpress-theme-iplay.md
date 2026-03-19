@@ -1,11 +1,11 @@
 ---
 title: "WordPress主题iplay发布"
 date: "2020-04-14"
-summary: "想了几年，做了两天，出了个alpha版本，迫不及待地用上了，地址http://iplay.codes ，可以看 […]"
+summary: "想了几年，做了两天，出了个alpha版本，迫不及待地用上了，可以看 […]"
 category: "Themes"
 tags:
   - Imported
-cover: ""
+cover: "/images/wp-import/wordpress-theme-iplay/iplay-thumb-for-hjyme.png"
 draft: false
 ---
 
