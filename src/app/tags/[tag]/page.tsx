@@ -2,7 +2,11 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
 import { PostList } from "@/components/post/post-list";
-import { getAllTags, getPostsByTag } from "@/lib/content/tags";
+import {
+  getAllTags,
+  getPostsByTag,
+  normalizeTagSlug
+} from "@/lib/content/tags";
 
 type TagPageProps = {
   params: Promise<{
@@ -20,7 +24,10 @@ export async function generateMetadata({
   params
 }: TagPageProps): Promise<Metadata> {
   const { tag } = await params;
-  const matchedTag = getAllTags().find((item) => item.slug === tag);
+  const normalizedTagSlug = normalizeTagSlug(tag);
+  const matchedTag = getAllTags().find(
+    (item) => item.slug === normalizedTagSlug
+  );
 
   if (!matchedTag) {
     return {};
@@ -37,13 +44,16 @@ export async function generateMetadata({
 
 export default async function TagDetailPage({ params }: TagPageProps) {
   const { tag } = await params;
-  const matchedTag = getAllTags().find((item) => item.slug === tag);
+  const normalizedTagSlug = normalizeTagSlug(tag);
+  const matchedTag = getAllTags().find(
+    (item) => item.slug === normalizedTagSlug
+  );
 
   if (!matchedTag) {
     notFound();
   }
 
-  const posts = getPostsByTag(tag);
+  const posts = getPostsByTag(normalizedTagSlug);
 
   return (
     <section className="space-y-8">

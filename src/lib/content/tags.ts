@@ -14,6 +14,14 @@ export function slugifyTag(tag: string): string {
     .replace(/^-+|-+$/g, "");
 }
 
+export function normalizeTagSlug(tagSlug: string): string {
+  try {
+    return decodeURIComponent(tagSlug);
+  } catch {
+    return tagSlug;
+  }
+}
+
 export function getAllTags(): TagWithCount[] {
   const tagMap = new Map<string, TagWithCount>();
 
