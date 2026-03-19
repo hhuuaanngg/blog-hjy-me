@@ -18,6 +18,6 @@ draft: false
 
 五月天，下次演唱会，see you~
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="480" height="294" src="/images/wp-import/mayday-concert-beijing-2019/5DS_4812-025x.png" alt="" class="wp-image-812"></figure>
+![](/images/wp-import/mayday-concert-beijing-2019/5DS_4812-025x.png)
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="480" height="245" src="/images/wp-import/mayday-concert-beijing-2019/5DS_4774-025x.png" alt="" class="wp-image-813"></figure>
+![](/images/wp-import/mayday-concert-beijing-2019/5DS_4774-025x.png)

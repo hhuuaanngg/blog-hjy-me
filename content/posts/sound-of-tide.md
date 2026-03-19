@@ -11,7 +11,7 @@ draft: false
 
 > 原文：https://hjy.me/sound-of-tide/
 
-<figure class="wp-block-audio"><audio controls="" src="/wp-content/uploads/2014/01/chaoshuisheng.mp3"></audio></figure>
+[收听音频](/wp-content/uploads/2014/01/chaoshuisheng.mp3)
 
 从明天起, 做一个幸福的人
 

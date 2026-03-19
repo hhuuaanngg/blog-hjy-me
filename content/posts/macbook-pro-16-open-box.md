@@ -17,15 +17,15 @@ draft: false
 
 看下简单的开箱照吧。
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1619" height="1080" src="/images/wp-import/macbook-pro-16-open-box/5DS_5252.png" alt="" class="wp-image-836"><figcaption class="wp-element-caption">ESC键独立了还是很有意思的</figcaption></figure>
+![ESC键独立了还是很有意思的](/images/wp-import/macbook-pro-16-open-box/5DS_5252.png)
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1619" height="1080" src="/images/wp-import/macbook-pro-16-open-box/5DS_5260.png" alt="" class="wp-image-837"><figcaption class="wp-element-caption">特特写bar</figcaption></figure>
+![特特写bar](/images/wp-import/macbook-pro-16-open-box/5DS_5260.png)
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1619" height="1080" src="/images/wp-import/macbook-pro-16-open-box/5DS_5261.png" alt="" class="wp-image-838"><figcaption class="wp-element-caption">特写bar</figcaption></figure>
+![特写bar](/images/wp-import/macbook-pro-16-open-box/5DS_5261.png)
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1619" height="1080" src="/images/wp-import/macbook-pro-16-open-box/5DS_5263.png" alt="" class="wp-image-839"><figcaption class="wp-element-caption">特写一个type-c接口。任意口子可以插电，棒。</figcaption></figure>
+![特写一个type-c接口。任意口子可以插电，棒。](/images/wp-import/macbook-pro-16-open-box/5DS_5263.png)
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1619" height="1080" src="/images/wp-import/macbook-pro-16-open-box/5DS_5273.png" alt="" class="wp-image-840"><figcaption class="wp-element-caption">这卷电源线，拍摄的效果还是不错的 。iPhone手机不是type-c就很尴尬。</figcaption></figure>
+![这卷电源线，拍摄的效果还是不错的 。iPhone手机不是type-c就很尴尬。](/images/wp-import/macbook-pro-16-open-box/5DS_5273.png)
 
 PS1：本想放几个开箱照，无奈摄影的环境实在不行。只能凑活拍了几张。
 

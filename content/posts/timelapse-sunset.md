@@ -11,4 +11,4 @@ draft: false
 
 > 原文：https://hjy.me/timelapse-sunset/
 
-<figure class="wp-block-video"><video controls="" src="https://hjy.me/wp-content/uploads/2015/01/2015-01-01-171107_2.mp4"></video></figure>
+[观看视频](https://hjy.me/wp-content/uploads/2015/01/2015-01-01-171107_2.mp4)
